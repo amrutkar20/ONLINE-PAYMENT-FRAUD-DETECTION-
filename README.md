@@ -1,5 +1,5 @@
 # ONLINE-PAYMENT-FRAUD-DETECTION-
-In this machine learning project, we solve the problem of detecting online transactions fraud detecting using machine numpy, scikit learn, and few other python libraries.We overcome the problem by creating a binary classifier and experimenting with various machine learning techniques to see which fits better.
+In this machine learning project, we solve the problem of online transactions fraud detecting using machine numpy, scikit learn, and few other python libraries.We overcome the problem by creating a binary classifier and experimenting with various machine learning techniques to see which fits better.
 
 The below column reference:
 
